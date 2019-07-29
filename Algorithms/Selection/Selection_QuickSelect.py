@@ -1,6 +1,6 @@
 def QuickSelect(L,k):
     p = L[0]
-    A,B,M = list(),list(),list()
+    A,M,B = list(),list(),list()
     M.append(p)
     for i in range(1, len(L)):
         if L[i] < p : A.append(L[i])
