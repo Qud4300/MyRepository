@@ -1,0 +1,19 @@
+﻿  A_Star.cpp
+d:\git\algorithms\a_star\a_star\a_star.cpp(7): error C2143: 구문 오류: ';'이(가) '<' 앞에 없습니다.
+d:\git\algorithms\a_star\a_star\a_star.cpp(7): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+d:\git\algorithms\a_star\a_star\a_star.cpp(7): error C2238: ';' 앞에 예기치 않은 토큰이 있습니다.
+d:\git\algorithms\a_star\a_star\a_star.cpp(8): error C3646: 'row': 알 수 없는 재정의 지정자입니다.
+d:\git\algorithms\a_star\a_star\a_star.cpp(8): error C2143: 구문 오류: ','이(가) '[' 앞에 없습니다.
+d:\git\algorithms\a_star\a_star\a_star.cpp(8): error C2143: 구문 오류: ')'이(가) ';' 앞에 없습니다.
+d:\git\algorithms\a_star\a_star\a_star.cpp(8): error C2238: ';' 앞에 예기치 않은 토큰이 있습니다.
+d:\git\algorithms\a_star\a_star\a_star.cpp(11): error C3646: 'toString': 알 수 없는 재정의 지정자입니다.
+d:\git\algorithms\a_star\a_star\a_star.cpp(11): error C2059: 구문 오류: '('
+d:\git\algorithms\a_star\a_star\a_star.cpp(11): error C2334: '{' 앞에 예기치 않은 토큰이 있습니다. 명백한 함수 본문을 건너뜁니다.
+d:\git\algorithms\a_star\a_star\a_star.cpp(21): error C2065: 'row': 선언되지 않은 식별자입니다.
+d:\git\algorithms\a_star\a_star\a_star.cpp(21): error C2065: 'col': 선언되지 않은 식별자입니다.
+d:\git\algorithms\a_star\a_star\a_star.cpp(22): error C2065: 'row': 선언되지 않은 식별자입니다.
+d:\git\algorithms\a_star\a_star\a_star.cpp(22): error C2065: 'col': 선언되지 않은 식별자입니다.
+d:\git\algorithms\a_star\a_star\a_star.cpp(23): error C2065: 'row': 선언되지 않은 식별자입니다.
+d:\git\algorithms\a_star\a_star\a_star.cpp(23): error C2065: 'col': 선언되지 않은 식별자입니다.
+d:\git\algorithms\a_star\a_star\a_star.cpp(30): error C2039: 'toString': 'puzzle'의 멤버가 아닙니다.
+  d:\git\algorithms\a_star\a_star\a_star.cpp(6): note: 'puzzle' 선언을 참조하십시오.
